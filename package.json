@@ -1,5 +1,3 @@
-{
-  "dependencies": {
-    "ngurek": "^0.1.0"
-  }
+"dependencies": {
+  "dependensi-baru": "github:rochman72/ngurek"
 }
